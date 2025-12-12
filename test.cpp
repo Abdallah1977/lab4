@@ -8,6 +8,6 @@ int main() {
 
     cout << "Hello from C++!" << endl;
     cout << "The sum of " << a << " and " << b << " is: " << sum << endl;
-
+    cout << "hello";
     return 0;
 }
